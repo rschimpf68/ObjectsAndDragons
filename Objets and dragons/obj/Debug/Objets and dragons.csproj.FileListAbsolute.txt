@@ -1,0 +1,8 @@
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\bin\Debug\Objets and dragons.exe.config
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\bin\Debug\Objets and dragons.exe
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\bin\Debug\Objets and dragons.pdb
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\obj\Debug\Objets and dragons.csproj.AssemblyReference.cache
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\obj\Debug\Objets and dragons.csproj.SuggestedBindingRedirects.cache
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\obj\Debug\Objets and dragons.csproj.CoreCompileInputs.cache
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\obj\Debug\Objets and dragons.exe
+C:\Users\ronal\source\repos\Objets and dragons\Objets and dragons\obj\Debug\Objets and dragons.pdb
